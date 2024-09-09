@@ -1,0 +1,12 @@
+/* Ensure the tab text is white for both active and inactive states */
+.ant-tabs-tab {
+    color: #fff !important;  /* Set inactive tab text color to white */
+}
+
+.ant-tabs-tab-active .ant-tabs-tab-btn {
+    color: #1890ff !important;  /* Set active tab text color (you can change this if needed) */
+}
+
+.ant-tabs-ink-bar {
+    background-color: #1890ff !important;  /* Set the active tab indicator color */
+}
