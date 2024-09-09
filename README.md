@@ -45,7 +45,7 @@ Navigate to the frontend folder:
 
 Install the frontend dependencies:
 - npm install
-- 
+  
 Start the frontend development server:
 - npm start
 
